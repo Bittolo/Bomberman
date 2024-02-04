@@ -16,7 +16,7 @@ public class Player {
     }
 
     public String getNickname() {
-        return nickname;
+        return nicknamesdt;
     }
 
     public Avatar getAvatar() {
@@ -34,5 +34,5 @@ public class Player {
     public Integer getLevel() {
         return playerLevel;
     }
-    
+
 }
