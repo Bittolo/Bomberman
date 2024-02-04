@@ -16,7 +16,7 @@ public class Player {
     }
 
     public String getNickname() {
-        return nicknamesdt;
+        return nickname;
     }
 
     public Avatar getAvatar() {
